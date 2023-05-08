@@ -7,3 +7,4 @@ I assumed that:
 * Translation and string management will be handled later.
 * The junior will handle almost everything in the PersonEndpoint class, I just provided examples of usage and naming.
 * More validations in the validation class. E.g. validations and handling of supported SSN formats, together with other string validations and formatting to safeguard against SQL injection/XSS attacks etc.
+* As soon as this POC is switched to an actual application, libs will be handled via a package manager like Maven/Groovy or similar.
